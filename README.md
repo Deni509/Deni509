@@ -23,7 +23,6 @@ The project brings together job postings, offers, contracts, chat, notifications
 
 [![AJAX app concept: desktop dashboard and mobile wallet](assets/ajax-professional-wallet-es.png)](projects/ajax.md)
 
-*AI-generated presentation mockup in Spanish. It illustrates the product; it is not a production screenshot or evidence of live payment processing.*
 
 **[Read the technical case study →](projects/ajax.md)**
 
